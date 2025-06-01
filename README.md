@@ -42,7 +42,7 @@ O notebook `TelecomX_Churn.ipynb` explora os dados dos clientes da Telecom X atr
 * **Encargos Mensais Elevados:** Há uma correlação positiva entre encargos mensais altos e churn. **Recomendação:** Avaliar a percepção de valor dos clientes com custos mais altos e comunicar melhor os benefícios para justificar o custo.
 
 
-## 📧 Contato
+## Contato
 
 Para dúvidas ou sugestões, entre em contato:
 
