@@ -2,7 +2,7 @@
 
 ## Visão Geral do Projeto
 
-Este repositório contém um projeto de análise exploratória e descritiva de dados de clientes da Telecom X, focado em identificar os principais fatores que contribuem para o cancelamento de serviços (churn). O objetivo é extrair insights valiosos que possam subsidiar a equipe de Data Science na criação de modelos preditivos de churn e no desenvolvimento de estratégias de retenção eficazes.
+Este repositório contém um projeto de análise exploratória e descritiva de dados de clientes da TelecomX, focado em identificar os principais fatores que contribuem para o cancelamento de serviços (churn). O objetivo é extrair insights valiosos que possam subsidiar a equipe de Data Science na criação de modelos preditivos de churn e no desenvolvimento de estratégias de retenção eficazes.
 
 ## O que este projeto aborda?
 
