@@ -20,7 +20,9 @@ O notebook `TelecomX_Churn.ipynb` explora os dados dos clientes da Telecom X atr
 ## Estrutura do Repositório
 
 ├── TelecomX_Churn.ipynb     # Notebook Jupyter com toda a análise
+
 ├── TelecomX_Data.json       # Dataset utilizado na análise
+
 └── README.md                # Este arquivo
 
 ## Tecnologias e Bibliotecas Utilizadas
