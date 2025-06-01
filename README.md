@@ -1,4 +1,4 @@
-# Análise de Churn de Clientes - Telecom X
+# Análise de Churn de Clientes - TelecomX
 
 ## Visão Geral do Projeto
 
